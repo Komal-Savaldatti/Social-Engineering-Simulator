@@ -92,19 +92,12 @@ http://127.0.0.1:5000
 
 ## 🎥 Demo Video
 
-Paste your demo video link here.
+Watch the project demo video here:
 
-Example:
-
-https://drive.google.com/your-demo-video-link
+https://go.screenpal.com/watch/cOhuQdnt9Bh
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
----
 
 ## 📜 Logs
 
